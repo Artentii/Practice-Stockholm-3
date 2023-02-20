@@ -55,6 +55,7 @@ body {
 /* HEADER */
 .Header{
     width: 100%;
+    height: 10vh;
     background-color: red;
     margin-bottom: 3.125rem;
 
@@ -113,7 +114,6 @@ body {
 Main{
     width: 100%;
     background-color: lightblue;
-    margin-bottom: 3.125rem;
     min-height: 280vh;
 
     display: grid;
@@ -176,51 +176,142 @@ Main-section{}
 .Sound-a{}
 
 /* IMAGE */
-.Image{}
+.Image{
+    background-color: palevioletred;
+}
 .Img{}
 
 /* WAVE */
-.Wave{}
+.Wave{
+    background-color: paleturquoise;
+}
 .Wave-image{}
 .Wave-h4{}
 .Wave-p{}
 
 /* NEWSLETTER */
-.Newsletter{}
-.Newsletter-h3{}
-.Newsletter-input{}
+.Newsletter{
+    background-color: lightpink;
+    width: 100%;
+    min-height: 25vh;
+    margin-bottom: 3.125rem;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.Newsletter-h3{
+    margin: 3.125rem;
+}
+.Input-container{
+    position: relative;
+    margin: 3.125rem;
+}
+.Newsletter-input{
+    width: 18.75rem;
+    height: 1.875rem;
+    font-size: 1rem;
+    border-bottom: .0625rem solid brown;
+}
+.Input-a{
+    position: absolute;
+
+    top: 30%;
+    left: 94%;
+}
+
+.Input-svg{
+    width: 1rem;
+    height: 1rem;
+}
 
 /* FOOTER */
-.Footer{}
+.Footer{
+    background-color: lightskyblue;
+    width: 100%;
+    height: 30vh;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3.125rem;
+}
 
 /* FOOTER LEFT */
-.Footer-left{}
-.Footer-s{}
+.Footer-left{
+    background-color: blueviolet;
+    margin-left: 1.875rem;
+    width: 25%;
+}
+.Footer-circle{
+    width: 6.25rem;
+    height: 6.25rem;
+
+    background-color: lightpink;
+    padding-bottom: .3rem;
+    border-radius: 50%;
+    border: 2px solid black;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.Footer-s{
+    font-size: 2.5rem;
+}
 .Copyright{}
 .Copyright-a{}
 
 /* FOOTER CENTER*/
-.Footer-center{}
+.Footer-center{
+    background-color: aquamarine;
+}
 
 /* FOOTER CENTER LEFT */
+.Left{
+    background-color: beige;
+    width: 25%;
+}
 .Left-ul{}
 .Left-li{}
 .Left-a{}
 
 /* FOOTER CENTER RIGHT */
+.Right{
+    background-color: goldenrod;
+    width: 25%;
+}
 .Right-ul{}
 .Right-li{}
 .Right-a{}
 
 /* FOOTER RIGHT */
-.Footer-right{}
+.Footer-right{
+    background-color: lightcyan;
+    width: 25%;
+}
+.Footer-sentences{}
 .Footer-ul{}
 .Footer-li{}
 .Footer-a{}
 
 /* RRSS */
-.Rrss{}
-.Rrss-ul{}
+.Rrss{
+    margin-top: 1.875rem;
+}
+.Rrss-ul{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.25rem;
+}
 .Rrss-li{}
 .Rrss-a{}
-.Rrss-svg{}
+.Rrss-svg{
+    width: 1rem;
+    height: 1rem;
+}
