@@ -4,7 +4,7 @@
 
 This is a recreation of the Stockholm website template number 70. 
 
-This practice is part of several recreations that I have carried out in a course I am taking to learn about HTML, CSS, and JavaScript. This particular practice has been to work on in depth :black_medium_square: :black_medium_small_square: display grid :black_medium_small_square: :black_medium_square: and learn how to make it responsive :iphone: . 	
+This practice is part of several recreations that I have carried out in a course I am taking to learn about HTML, CSS, and JavaScript. This particular practice has been to work on in depth :black_medium_square::black_medium_small_square::black_small_square: display grid	:black_small_square::black_medium_small_square::black_medium_square: and learn how to make it responsive:iphone:. 	
 
 ## Used Technologies :orange_circle: :large_blue_circle:
 
@@ -12,6 +12,6 @@ This practice is part of several recreations that I have carried out in a course
 ![CSS](https://img.shields.io/static/v1?label=&message=css&color=blue&logo=css3&logoColor=white&style=for-the-badge)
 ![SUIT Methodology](https://img.shields.io/static/v1?label=&message=suitcss&color=lightblue&logo=suit&logoColor=white&style=for-the-badge)
 
-> :bangbang: Clarifications: :bangbang:
+> :bangbang: Additional Information: :bangbang:
 >
 > This is simply a recreation of the original template to practice and improve my skills.
