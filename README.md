@@ -1,4 +1,4 @@
-[screen-capture (4).webm](https://user-images.githubusercontent.com/125751323/224992707-51c85fcc-6b1b-40a7-8e16-ea2e32d8405f.webm)
+[screen-capture (8).webm](https://user-images.githubusercontent.com/125751323/227890414-b7cf9143-93ab-4c68-bb25-85faad939e82.webm)
 
 # Recreation: Stockholm 70 :books:
 
